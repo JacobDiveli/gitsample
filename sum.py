@@ -5,4 +5,4 @@ print("addition",sum)
 sub =a-b
 print("subtraction",sub)
 Mul = a*b
-print("Multiplication",Mul)
+print("Multiplication of two numbers is",Mul)
